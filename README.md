@@ -3,7 +3,6 @@
 **TROLL-E** is a simple and effective **human-following robot** built using Arduino and IoT sensors. It is designed to follow a person based on distance and direction using **ultrasonic and IR sensors**, making it ideal for personal assistance, autonomous delivery, and smart mobility applications.
 
 ---
-![TROLL-E Banner](./images/banner.png)
 
 
 ## 🎯 Key Features
